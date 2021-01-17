@@ -18,7 +18,7 @@ export default function ListServico() {
                 <Link  href="/produtos">
                     <div className="lista">
                         <LojaCard 
-                            image="../vercel.svg"
+                            image="../assets/casa.png"
                             subTitulo="Serviços para Casa"
                              />
                     </div>
@@ -29,7 +29,7 @@ export default function ListServico() {
                 <Link href="/produtos">
                     <div className="lista">
                         <LojaCard 
-                            image="../vercel.svg"
+                            image="../assets/educacao.jpg"
                             subTitulo="Serviços para Educação"
                              />
                     </div>
@@ -40,7 +40,7 @@ export default function ListServico() {
                 <Link href="/produtos">
                     <div className="lista">
                         <LojaCard 
-                            image="../vercel.svg"
+                            image="../assets/automotivo.png"
                             subTitulo="Serviços Automotivos"
                              />
                     </div>
@@ -51,7 +51,7 @@ export default function ListServico() {
                 <Link href="/produtos">
                     <div className="lista">
                         <LojaCard 
-                            image="../vercel.svg"
+                            image="../assets/entrega2.png"
                             subTitulo="Serviços de entrega"
                              />
                     </div>

@@ -1,5 +1,5 @@
 import Head from 'next/head'
-
+import ListServico from '../componets/ListServico'
 
 export default function Home() {
   return (
@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       
       <div>
-        Começamos 
+        <ListServico />
       </div>
       
     </div>

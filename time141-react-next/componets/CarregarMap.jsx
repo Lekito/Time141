@@ -10,7 +10,7 @@ export default function CarregarMap () {
         <div>
             <div>
                 <Head>
-                    <title>Gopharmes</title>
+                    <title>Time 141</title>
                     <link rel="icon" href="/favicon.ico" />
                     <link
                     href="https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css"

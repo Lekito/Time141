@@ -1,9 +1,8 @@
 import Head from 'next/head';
 import React from 'react';
-import Footer from '../components/Footer';
-import Header from '../components/Header';
-import CarregarMap from '../components/CarregarMap'
-
+import Header from '../componets/Header';
+import Footer from '../componets/Footer';
+import CarregarMap from '../componets/CarregarMap'
  
 export default function Endereco() {
   return (
